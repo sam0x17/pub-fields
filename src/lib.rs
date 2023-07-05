@@ -6,6 +6,8 @@ use syn::{parse::Nothing, parse_macro_input, parse_quote, ItemStruct};
 ///
 /// Usage:
 /// ```rust
+/// use pub_fields::pub_fields;
+///
 /// #[pub_fields]
 /// pub struct MyStruct {
 ///     a: usize,
