@@ -3,7 +3,7 @@ name = "pub-fields"
 version = "0.1.0"
 edition = "2021"
 authors = ["sam0x17"]
-description = "Provides a proc macro attribute that defaults all struct fields to public unless private is prepended."
+description = "Provides a proc macro attribute that defaults all struct fields to public."
 repository = "https://github.com/sam0x17/pub-fields"
 license = "MIT"
 

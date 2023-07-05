@@ -11,5 +11,5 @@ mod submod {
 
 #[test]
 fn test_it() {
-    let x = submod::MyStruct { a: 3, b: 4, c: 5 };
+    let _x = submod::MyStruct { a: 3, b: 4, c: 5 };
 }
